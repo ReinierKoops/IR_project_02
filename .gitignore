@@ -1,9 +1,11 @@
-
+created_sample/
 PyLTR_example/
 pyltr/
 data/
 pickles/
 venv/
+
+*.pickle
 
 # Created by https://www.gitignore.io/api/c,c++,java,linux,macos,python,windows,jetbrains+all,jupyternotebooks
 # Edit at https://www.gitignore.io/?templates=c,c++,java,linux,macos,python,windows,jetbrains+all,jupyternotebooks
