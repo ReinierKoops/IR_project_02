@@ -1,3 +1,6 @@
+
+notebooks/*.txt
+notebooks/old/
 created_sample/
 PyLTR_example/
 pyltr/
