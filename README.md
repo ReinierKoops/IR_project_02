@@ -14,5 +14,3 @@ In the notebooks-folder, one can find six notebooks in the other it has to be ru
 
 We have used the AOL dataset for our synthetic queries & history log:
 http://www.cim.mcgill.ca/~dudek/206/Logs/AOL-user-ct-collection/
-
-By emailling github [@] reinier [dot] work, you can get a link to access the google drive files containing all the pickle files used in the notebooks. However, it is not necessary to be able to run it because one can also generate the files themselves. But, you have to keep in mind that generating might take four to eight hours on a modern computer.
